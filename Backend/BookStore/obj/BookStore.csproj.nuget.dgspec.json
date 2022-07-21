@@ -1,0 +1,216 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Sem 7\\Summer Internship\\Code\\Day 11,12,13,14,15 - Frontend ReactJs with API Integration\\Bookstore-master\\Bookstore-master\\Backend\\BookStore\\BookStore.csproj": {}
+  },
+  "projects": {
+    "E:\\Sem 7\\Summer Internship\\Code\\Day 11,12,13,14,15 - Frontend ReactJs with API Integration\\Bookstore-master\\Bookstore-master\\Backend\\BookStore.Models\\BookStore.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Sem 7\\Summer Internship\\Code\\Day 11,12,13,14,15 - Frontend ReactJs with API Integration\\Bookstore-master\\Bookstore-master\\Backend\\BookStore.Models\\BookStore.Models.csproj",
+        "projectName": "BookStore.Models",
+        "projectPath": "E:\\Sem 7\\Summer Internship\\Code\\Day 11,12,13,14,15 - Frontend ReactJs with API Integration\\Bookstore-master\\Bookstore-master\\Backend\\BookStore.Models\\BookStore.Models.csproj",
+        "packagesPath": "C:\\Users\\VATSAL VINAY PARIKH\\.nuget\\packages\\",
+        "outputPath": "E:\\Sem 7\\Summer Internship\\Code\\Day 11,12,13,14,15 - Frontend ReactJs with API Integration\\Bookstore-master\\Bookstore-master\\Backend\\BookStore.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\VATSAL VINAY PARIKH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Sem 7\\Summer Internship\\Code\\Day 11,12,13,14,15 - Frontend ReactJs with API Integration\\Bookstore-master\\Bookstore-master\\Backend\\BookStore.Respositary\\BookStore.Respositary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Sem 7\\Summer Internship\\Code\\Day 11,12,13,14,15 - Frontend ReactJs with API Integration\\Bookstore-master\\Bookstore-master\\Backend\\BookStore.Respositary\\BookStore.Respositary.csproj",
+        "projectName": "BookStore.Respositary",
+        "projectPath": "E:\\Sem 7\\Summer Internship\\Code\\Day 11,12,13,14,15 - Frontend ReactJs with API Integration\\Bookstore-master\\Bookstore-master\\Backend\\BookStore.Respositary\\BookStore.Respositary.csproj",
+        "packagesPath": "C:\\Users\\VATSAL VINAY PARIKH\\.nuget\\packages\\",
+        "outputPath": "E:\\Sem 7\\Summer Internship\\Code\\Day 11,12,13,14,15 - Frontend ReactJs with API Integration\\Bookstore-master\\Bookstore-master\\Backend\\BookStore.Respositary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\VATSAL VINAY PARIKH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\Sem 7\\Summer Internship\\Code\\Day 11,12,13,14,15 - Frontend ReactJs with API Integration\\Bookstore-master\\Bookstore-master\\Backend\\BookStore.Models\\BookStore.Models.csproj": {
+                "projectPath": "E:\\Sem 7\\Summer Internship\\Code\\Day 11,12,13,14,15 - Frontend ReactJs with API Integration\\Bookstore-master\\Bookstore-master\\Backend\\BookStore.Models\\BookStore.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Sem 7\\Summer Internship\\Code\\Day 11,12,13,14,15 - Frontend ReactJs with API Integration\\Bookstore-master\\Bookstore-master\\Backend\\BookStore\\BookStore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Sem 7\\Summer Internship\\Code\\Day 11,12,13,14,15 - Frontend ReactJs with API Integration\\Bookstore-master\\Bookstore-master\\Backend\\BookStore\\BookStore.csproj",
+        "projectName": "BookStore",
+        "projectPath": "E:\\Sem 7\\Summer Internship\\Code\\Day 11,12,13,14,15 - Frontend ReactJs with API Integration\\Bookstore-master\\Bookstore-master\\Backend\\BookStore\\BookStore.csproj",
+        "packagesPath": "C:\\Users\\VATSAL VINAY PARIKH\\.nuget\\packages\\",
+        "outputPath": "E:\\Sem 7\\Summer Internship\\Code\\Day 11,12,13,14,15 - Frontend ReactJs with API Integration\\Bookstore-master\\Bookstore-master\\Backend\\BookStore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\VATSAL VINAY PARIKH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\Sem 7\\Summer Internship\\Code\\Day 11,12,13,14,15 - Frontend ReactJs with API Integration\\Bookstore-master\\Bookstore-master\\Backend\\BookStore.Models\\BookStore.Models.csproj": {
+                "projectPath": "E:\\Sem 7\\Summer Internship\\Code\\Day 11,12,13,14,15 - Frontend ReactJs with API Integration\\Bookstore-master\\Bookstore-master\\Backend\\BookStore.Models\\BookStore.Models.csproj"
+              },
+              "E:\\Sem 7\\Summer Internship\\Code\\Day 11,12,13,14,15 - Frontend ReactJs with API Integration\\Bookstore-master\\Bookstore-master\\Backend\\BookStore.Respositary\\BookStore.Respositary.csproj": {
+                "projectPath": "E:\\Sem 7\\Summer Internship\\Code\\Day 11,12,13,14,15 - Frontend ReactJs with API Integration\\Bookstore-master\\Bookstore-master\\Backend\\BookStore.Respositary\\BookStore.Respositary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

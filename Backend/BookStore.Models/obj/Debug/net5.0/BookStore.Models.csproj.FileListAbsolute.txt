@@ -1,0 +1,30 @@
+D:\Tatvasoft\BookStore\BookStore\BookStore.Models\bin\Debug\net5.0\BookStore.Models.deps.json
+D:\Tatvasoft\BookStore\BookStore\BookStore.Models\bin\Debug\net5.0\BookStore.Models.dll
+D:\Tatvasoft\BookStore\BookStore\BookStore.Models\bin\Debug\net5.0\BookStore.Models.pdb
+D:\Tatvasoft\BookStore\BookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tatvasoft\BookStore\BookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.AssemblyInfoInputs.cache
+D:\Tatvasoft\BookStore\BookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.AssemblyInfo.cs
+D:\Tatvasoft\BookStore\BookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.csproj.CoreCompileInputs.cache
+D:\Tatvasoft\BookStore\BookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.dll
+D:\Tatvasoft\BookStore\BookStore\BookStore.Models\obj\Debug\net5.0\ref\BookStore.Models.dll
+D:\Tatvasoft\BookStore\BookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.pdb
+D:\Tatvasoft\BookStore\BookStore\BookStore.Models\bin\Debug\net5.0\BookStore.Models.runtimeconfig.json
+D:\Tatvasoft\BookStore\BookStore\BookStore.Models\bin\Debug\net5.0\BookStore.Models.runtimeconfig.dev.json
+D:\Tatvasoft\BookStore\BookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.genruntimeconfig.cache
+D:\Tatvasoft\BookStore\BookStore\BookStore.Models\bin\Debug\net5.0\ref\BookStore.Models.dll
+D:\Tatvasoft\BookStore\BookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.csproj.AssemblyReference.cache
+E:\Sem 7\Summer Internship\Code\Day 11,12,13,14,15 - Frontend ReactJs with API Integration\Bookstore-master\Bookstore-master\Backend\BookStore.Models\bin\Debug\net5.0\BookStore.Models.deps.json
+E:\Sem 7\Summer Internship\Code\Day 11,12,13,14,15 - Frontend ReactJs with API Integration\Bookstore-master\Bookstore-master\Backend\BookStore.Models\bin\Debug\net5.0\BookStore.Models.runtimeconfig.json
+E:\Sem 7\Summer Internship\Code\Day 11,12,13,14,15 - Frontend ReactJs with API Integration\Bookstore-master\Bookstore-master\Backend\BookStore.Models\bin\Debug\net5.0\BookStore.Models.runtimeconfig.dev.json
+E:\Sem 7\Summer Internship\Code\Day 11,12,13,14,15 - Frontend ReactJs with API Integration\Bookstore-master\Bookstore-master\Backend\BookStore.Models\bin\Debug\net5.0\BookStore.Models.dll
+E:\Sem 7\Summer Internship\Code\Day 11,12,13,14,15 - Frontend ReactJs with API Integration\Bookstore-master\Bookstore-master\Backend\BookStore.Models\bin\Debug\net5.0\BookStore.Models.pdb
+E:\Sem 7\Summer Internship\Code\Day 11,12,13,14,15 - Frontend ReactJs with API Integration\Bookstore-master\Bookstore-master\Backend\BookStore.Models\obj\Debug\net5.0\BookStore.Models.csproj.AssemblyReference.cache
+E:\Sem 7\Summer Internship\Code\Day 11,12,13,14,15 - Frontend ReactJs with API Integration\Bookstore-master\Bookstore-master\Backend\BookStore.Models\obj\Debug\net5.0\BookStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sem 7\Summer Internship\Code\Day 11,12,13,14,15 - Frontend ReactJs with API Integration\Bookstore-master\Bookstore-master\Backend\BookStore.Models\obj\Debug\net5.0\BookStore.Models.AssemblyInfoInputs.cache
+E:\Sem 7\Summer Internship\Code\Day 11,12,13,14,15 - Frontend ReactJs with API Integration\Bookstore-master\Bookstore-master\Backend\BookStore.Models\obj\Debug\net5.0\BookStore.Models.AssemblyInfo.cs
+E:\Sem 7\Summer Internship\Code\Day 11,12,13,14,15 - Frontend ReactJs with API Integration\Bookstore-master\Bookstore-master\Backend\BookStore.Models\obj\Debug\net5.0\BookStore.Models.csproj.CoreCompileInputs.cache
+E:\Sem 7\Summer Internship\Code\Day 11,12,13,14,15 - Frontend ReactJs with API Integration\Bookstore-master\Bookstore-master\Backend\BookStore.Models\obj\Debug\net5.0\BookStore.Models.dll
+E:\Sem 7\Summer Internship\Code\Day 11,12,13,14,15 - Frontend ReactJs with API Integration\Bookstore-master\Bookstore-master\Backend\BookStore.Models\obj\Debug\net5.0\refint\BookStore.Models.dll
+E:\Sem 7\Summer Internship\Code\Day 11,12,13,14,15 - Frontend ReactJs with API Integration\Bookstore-master\Bookstore-master\Backend\BookStore.Models\obj\Debug\net5.0\BookStore.Models.pdb
+E:\Sem 7\Summer Internship\Code\Day 11,12,13,14,15 - Frontend ReactJs with API Integration\Bookstore-master\Bookstore-master\Backend\BookStore.Models\obj\Debug\net5.0\BookStore.Models.genruntimeconfig.cache
+E:\Sem 7\Summer Internship\Code\Day 11,12,13,14,15 - Frontend ReactJs with API Integration\Bookstore-master\Bookstore-master\Backend\BookStore.Models\obj\Debug\net5.0\ref\BookStore.Models.dll

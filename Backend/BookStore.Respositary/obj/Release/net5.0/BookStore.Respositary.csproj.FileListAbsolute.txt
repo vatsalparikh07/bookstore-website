@@ -1,0 +1,15 @@
+D:\Tatvasoft\BookStore\BookStore\BookStore.Respositary\bin\Release\net5.0\BookStore.Respositary.deps.json
+D:\Tatvasoft\BookStore\BookStore\BookStore.Respositary\bin\Release\net5.0\BookStore.Respositary.dll
+D:\Tatvasoft\BookStore\BookStore\BookStore.Respositary\bin\Release\net5.0\ref\BookStore.Respositary.dll
+D:\Tatvasoft\BookStore\BookStore\BookStore.Respositary\bin\Release\net5.0\BookStore.Respositary.pdb
+D:\Tatvasoft\BookStore\BookStore\BookStore.Respositary\bin\Release\net5.0\BookStore.Models.dll
+D:\Tatvasoft\BookStore\BookStore\BookStore.Respositary\bin\Release\net5.0\BookStore.Models.pdb
+D:\Tatvasoft\BookStore\BookStore\BookStore.Respositary\obj\Release\net5.0\BookStore.Respositary.csproj.AssemblyReference.cache
+D:\Tatvasoft\BookStore\BookStore\BookStore.Respositary\obj\Release\net5.0\BookStore.Respositary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tatvasoft\BookStore\BookStore\BookStore.Respositary\obj\Release\net5.0\BookStore.Respositary.AssemblyInfoInputs.cache
+D:\Tatvasoft\BookStore\BookStore\BookStore.Respositary\obj\Release\net5.0\BookStore.Respositary.AssemblyInfo.cs
+D:\Tatvasoft\BookStore\BookStore\BookStore.Respositary\obj\Release\net5.0\BookStore.Respositary.csproj.CoreCompileInputs.cache
+D:\Tatvasoft\BookStore\BookStore\BookStore.Respositary\obj\Release\net5.0\BookStore.Respositary.csproj.CopyComplete
+D:\Tatvasoft\BookStore\BookStore\BookStore.Respositary\obj\Release\net5.0\BookStore.Respositary.dll
+D:\Tatvasoft\BookStore\BookStore\BookStore.Respositary\obj\Release\net5.0\ref\BookStore.Respositary.dll
+D:\Tatvasoft\BookStore\BookStore\BookStore.Respositary\obj\Release\net5.0\BookStore.Respositary.pdb
