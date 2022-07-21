@@ -1,4 +1,4 @@
-# BookStore E-commerce website - Summer Internship June 2022
+# BookStore E-commerce website - Summer Internship
 ## Technologies Used
 ### Frontend: 
 1) ReactJS Hooks
