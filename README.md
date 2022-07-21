@@ -1,5 +1,5 @@
 # BookStore E-commerce website - Summer Internship June 2022
-## Technologies used
+## Technologies 
 ### Frontend: 
 1) ReactJS Hooks
 2) ReactJS libraries - Axios and Toastify
